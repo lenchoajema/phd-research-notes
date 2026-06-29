@@ -1,9 +1,10 @@
 # PhD Research Notes 
 — Professor Papers *Lencho Ajema Negese | github.com/Ajema-len | ORCID: 0009-0004-6093-8890* *Updated: June 25, 2026* 
---- ## Prof. Jordan Aaron 
-— Engineering Geology, ETH Zurich **Google Scholar:** scholar.google.com/citations?user=v4JjOwQAAAAJ **Research focus:** Debris flow dynamics, LiDAR sensing, CV for geohazards 
+## Prof. Jordan Aaron 
+Engineering Geology, ETH Zurich **Google Scholar:** scholar.google.com/citations?user=v4JjOwQAAAAJ **Research focus:** Debris flow dynamics, LiDAR sensing, CV for geohazards 
 ### Paper 
-1: High-Frequency 3D LiDAR Measurements of a Debris Flow (GRL, 2023) **Key contribution:** First subsecond 3D point cloud measurements of full-scale debris flows at Illgraben, Valais. Derives front and surface velocity from successive scans. **3 things I learned:** - LiDAR-derived velocity fields are the 3D equivalent of what optical flow does in 2D video — motion estimation from dense sequential sensor data - The Illgraben site produces ~10 debris flows per year — enough for a meaningful ML training dataset - Internal flow dynamics (surges, levées) were previously invisible without subsecond resolution **My connection:** My UAV thesis extracted motion features and classified events from aerial image time-series. The core problem is identical — derive dynamic measurements from dense sequential sensor data to classify physical events. 
+1: High-Frequency 3D LiDAR Measurements of a Debris Flow (GRL, 2023) 
+**Key contribution:** First subsecond 3D point cloud measurements of full-scale debris flows at Illgraben, Valais. Derives front and surface velocity from successive scans. **3 things I learned:** - LiDAR-derived velocity fields are the 3D equivalent of what optical flow does in 2D video — motion estimation from dense sequential sensor data - The Illgraben site produces ~10 debris flows per year — enough for a meaningful ML training dataset - Internal flow dynamics (surges, levées) were previously invisible without subsecond resolution **My connection:** My UAV thesis extracted motion features and classified events from aerial image time-series. The core problem is identical — derive dynamic measurements from dense sequential sensor data to classify physical events. 
 **Question for Prof. Aaron:** 
 How do you handle the domain shift between the Illgraben dataset and other debris flow sites with different rheology and grain size distributions? 
 --- ### Paper 2: DeFlow — Self-supervised 3D Motion Estimation of Debris Flow (CVPRW 2023, Best Paper) 
