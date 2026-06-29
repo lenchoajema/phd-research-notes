@@ -1,5 +1,5 @@
 # PhD Research Notes 
-— Professor Papers *Lencho Ajema Negese | github.com/Ajema-len | ORCID: 0009-0004-6093-8890* *Updated: June 25, 2026* 
+— Professor Papers *Lencho Ajema Negese | github.com/lenchoajema | ORCID: 0009-0004-6093-8890* *Updated: June 25, 2026* 
 ## Prof. Jordan Aaron 
 Engineering Geology, ETH Zurich **Google Scholar:** scholar.google.com/citations?user=v4JjOwQAAAAJ **Research focus:** Debris flow dynamics, LiDAR sensing, CV for geohazards 
 ### Paper 1: High-Frequency 3D LiDAR Measurements of a Debris Flow (GRL, 2023) 
